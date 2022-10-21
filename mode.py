@@ -32,5 +32,5 @@ def Sorted(v):
         r.append(tt)
         t.remove(tt)
     return r
-print(dd)
+print(d)
 sorted(5)
